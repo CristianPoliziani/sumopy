@@ -27,7 +27,17 @@ from command line:
 use for debugging:
     python sumopy_gui.py --debug > debug.txt 2>&1
 """
-
+print '                   _                         '
+print '       ____________|______|||___________________      '
+print '      /      _     |              / \  _ _ _ _ _ \     '       
+print '     /       |   / | \     v     / _ \ _|_|_|_|_ /     '       
+print '     \   __o-o__/  |  \  \ | /  / / \ \     ____/      '       
+print '      \        / \|o|/ \  \|/  / / o/\ \   |   _|__/_  '      
+print '       \      /  \|o|/  \  |  / / /|  \ \  |  | |      '      
+print '   | | | | | /   \|0|/   \ v /  \_/ \_/  \_|    |      '      
+print '   | | | | |/_____________\_/____________/ ____/       '
+print '                                         |/             '
+print ''
 print __appname__+' version '+__version__+'\n'+__copyright__
 
 ###############################################################################
